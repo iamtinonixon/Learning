@@ -6,4 +6,3 @@ if remainder == 0:
     print('even')
 else:
     print('odd')
-    
