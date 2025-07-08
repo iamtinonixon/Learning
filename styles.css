@@ -1,0 +1,17 @@
+.note{
+    color: red;
+    font-size: 20px;
+    /* background-color:rgb(255, 255, 255); */
+    /* background-color:#595c57d1; */
+
+}
+
+#rand{
+    color: grey;
+    font-size: 22px;
+    font-family:'Courier New';
+}
+
+ul{
+    list-style-position: inside;
+}
